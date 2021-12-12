@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 * skeleton.css
 * sass
 * Gulp js (Version Control)
+* figma
   
 
 ### Currently Learning :
