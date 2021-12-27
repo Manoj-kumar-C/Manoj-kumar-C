@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 * sass
 * Gulp js (Version Control)
 * figma
+* laravel (basics)
   
 
 ### Currently Learning :
@@ -59,11 +60,14 @@ Here are some ideas to get you started:
 
 >Tailwind css
 
+>React Native
+
 
 ### My Futher Plans :
 * :handshake: Try to make more collaboration with other developers .
 *  :kite: Try to make more open source projects . 
 *  :parrot: Try to make more MERN and PHP projects .
 *  :rocket: Help others with a smile :smiley: .
+*  make a laravel webite and react native apps before 2022 finish . and ***** dolllars target 
   
 ---
