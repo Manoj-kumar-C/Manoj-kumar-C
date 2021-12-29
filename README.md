@@ -68,6 +68,6 @@ Here are some ideas to get you started:
 *  :kite: Try to make more open source projects . 
 *  :parrot: Try to make more MERN and PHP projects .
 *  :rocket: Help others with a smile :smiley: .
-*  make a laravel webite and react native apps before 2022 finish . and ***** dolllars target 
+*  make a laravel website and react native apps before 2022 finish . and ***** dolllars target 
   
 ---
