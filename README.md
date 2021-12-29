@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 * Gulp js (Version Control)
 * figma
 * laravel (basics)
-  
 
 ### Currently Learning :
 >MongoDB :leaves:
@@ -61,6 +60,8 @@ Here are some ideas to get you started:
 >Tailwind css
 
 >React Native
+
+>PWA -- Progressive Web App
 
 
 ### My Futher Plans :
