@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 * sass
 * Gulp js (Version Control)
 * figma
-* laravel (basics)
+* laravel (Basics)
+* Next Js (Basics)
 
 ### Currently Learning :
 >MongoDB :leaves:
