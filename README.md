@@ -64,6 +64,11 @@ Here are some ideas to get you started:
 >PWA -- Progressive Web App
 
 
+- 🔭 I’m currently working on web and mobile Development .
+- 🌱 I’m currently learning React Native and PWA .
+- 🤔 I’m looking for help with React Native .
+
+
 ### My Futher Plans :
 * :handshake: Try to make more collaboration with other developers .
 *  :kite: Try to make more open source projects . 
