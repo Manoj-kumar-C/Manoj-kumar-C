@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Native and PWA .
 - 🤔 I’m looking for help with React Native .
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=radical)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMANOJKUMAR-LOTUS&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMANOJKUMAR-LOTUS&layout=compact)
+
 
 ### My Futher Plans :
 * :handshake: Try to make more collaboration with other developers .
