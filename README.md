@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Programming Languages that i know : :v:
 
->HTML% - Hyper Text Markup Language .
+>HTML5 - Hyper Text Markup Language .
 >CSS3  - Cascading Style Sheet .
 >JS   - JavaScript .
 >MySQL  - Structued Query Language .
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Native and PWA .
 - 🤔 I’m looking for help with React Native .
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=radical)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMANOJKUMAR-LOTUS&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=gradient)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMANOJKUMAR-LOTUS&layout=compact)
 
 
 
