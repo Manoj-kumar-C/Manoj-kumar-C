@@ -22,14 +22,10 @@ Here are some ideas to get you started:
 
 ### Programming Languages that i know : :v:
 
->HTML - Hyper Text Markup Language .
-
->CSS  - Cascading Style Sheet .
-
+>HTML% - Hyper Text Markup Language .
+>CSS3  - Cascading Style Sheet .
 >JS   - JavaScript .
-
->SQL  - Structued Query Language .
-
+>MySQL  - Structued Query Language .
 >PHP  - Personal Home Page .
 
 ###  ___FrameWorks and Libraries___ that i know :fire: :
@@ -43,7 +39,7 @@ Here are some ideas to get you started:
 * skeleton.css
 * sass
 * Gulp js (Version Control)
-* figma
+* sass
 * laravel (Basics)
 * Next Js (Basics)
 
