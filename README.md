@@ -71,6 +71,24 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=radical)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=merko)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=gruvbox)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=onedark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=cobalt)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=synthwave)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=highcontrast)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=dracula)
+
 
 ### My Futher Plans :
 * :handshake: Try to make more collaboration with other developers .
