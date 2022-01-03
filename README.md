@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Native and PWA .
 - 🤔 I’m looking for help with React Native .
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=gradient)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMANOJKUMAR-LOTUS&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperMANOJKUMAR-LOTUS&show_icons=true&theme=aura)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMANOJKUMAR-LOTUS&layout=compact)
 
 
 
@@ -74,6 +74,6 @@ Here are some ideas to get you started:
 *  :kite: Try to make more open source projects . 
 *  :parrot: Try to make more MERN and PHP projects .
 *  :rocket: Help others with a smile :smiley: .
-*  make a laravel website and react native apps before 2022 finish . and ***** dolllars target 
+*  make laravel or next js websites and react native apps before 2022 finish . and ***** dolllars target 
   
 ---
