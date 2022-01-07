@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 * Bootstrap :b:
 * React js 
-* Vue js
 * React Native 
 * Jquery
 * anime.css 
