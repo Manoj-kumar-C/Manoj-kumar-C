@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 * sass
 * laravel (Basics)
 * Next Js (Basics)
+* PWA -- Progressive Web App
+
 
 ### Currently Learning :
 
@@ -58,8 +60,7 @@ Here are some ideas to get you started:
 
 >React Native
 
->PWA -- Progressive Web App
-
+>
 
 - 🔭 I’m currently working on web and mobile Development .
 - 🌱 I’m currently learning React Native and PWA .
