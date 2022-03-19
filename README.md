@@ -80,6 +80,8 @@ Here are some ideas to get you started:
 <!--OMG! 😱 This snake is eating my Git Commit 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90634510/148650204-558fbc9c-9a0e-4742-92fb-ee987ae3353d.gif) -->
 
+### 📈 GitHub Activity Graph:
+![Manoj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DeveloperMANOJKUMAR-LOTUS&hide_border=true&theme=redical)
 
 
 ### My Futher Plans :
