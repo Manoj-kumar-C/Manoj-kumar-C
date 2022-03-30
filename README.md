@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 * React js 
 * React Native 
 * Jquery
-* anime.css 
-* skeleton.css
+
+
 * sass
 * Gulp js (Version Control)
 * sass
