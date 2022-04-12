@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 * Bootstrap :b:
 * React js 
 * React Native 
-* Jquery
 
 
 * sass
