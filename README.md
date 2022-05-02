@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 *  :kite: Try to make more open source projects . 
 *  :parrot: Try to make more MERN and PHP projects .
 *  :rocket: Help others with a smile :smiley: .
-*  make laravel or next js websites and react native apps before 2022 finish . and ***** dolllars target 
+*  make laravel or next js websites and react native apps before 2022 finish and ***** dolllars target 
   
 ---
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperMANOJKUMAR-LOTUS"></img>
