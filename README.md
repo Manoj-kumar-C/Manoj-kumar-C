@@ -26,20 +26,6 @@ Here are some ideas to get you started:
 >PHP  - Personal Home Page .
 >Node Js
 
-###  ___FrameWorks and Libraries___ that i know :fire: :
-
-* Bootstrap :b:
-* React js 
-* React Native 
-
-
-* sass
-* Gulp js (Version Control)
-* sass
-* laravel (Basics)
-* Next Js (Basics)
-* PWA -- Progressive Web App
-
 
 ### Currently Learning :
 
@@ -97,7 +83,7 @@ Here are some ideas to get you started:
 <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="TopCodeBeast" /></p>
 <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/TopCodeBeast"><img src="https://github-profile-trophy.vercel.app/?username=DeveloperMANOJKUMAR-LOTUS&margin-w=5&theme=radical" alt="TopCodeBeast" /></a> </p>
+<p align="center"> <a href="https://github.com/TopCodeBeast"><img src="https://github-profile-trophy.vercel.app/?username=DeveloperMANOJKUMAR-LOTUS&margin-w=5&theme=radical" alt="Manojkumar" /></a> </p>
 
 <br>
 
