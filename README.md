@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90634510/148650204-558fbc9c-9a0e-4742-92fb-ee987ae3353d.gif) -->
 
 ### 📈 GitHub Activity Graph:
-<p align="center">
+
 ![Manoj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DeveloperMANOJKUMAR-LOTUS&hide_border=true&theme=redical)
-</p>
+
 ### My Futher Plans :
 * :handshake: Try to make more collaboration with other developers .
 *  :kite: Try to make more open source projects . 
@@ -77,9 +77,9 @@ Here are some ideas to get you started:
 *  make laravel or next js websites and react native apps before 2022 finish and ***** dolllars target 
   
 ---
-<p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperMANOJKUMAR-LOTUS"></img>
-</p>
+
 ![image](https://user-images.githubusercontent.com/90634510/160227968-b02da26d-1c75-478f-9642-0855dad4679a.png)
 
 
