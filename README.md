@@ -79,9 +79,12 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperMANOJKUMAR-LOTUS"></img>
 
 ![image](https://user-images.githubusercontent.com/90634510/160227968-b02da26d-1c75-478f-9642-0855dad4679a.png)
-:smile:
+
+
 <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="DeveloperMANOJKUMAR-LOTUS" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperMANOJKUMAR-LOTUS&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="DeveloperMANOJKUMAR-LOTUS" /></p>
+
+
 <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/DeveloperMANOJKUMAR-LOTUS"><img src="https://github-profile-trophy.vercel.app/?username=DeveloperMANOJKUMAR-LOTUS&margin-w=5&theme=radical" alt="Manojkumar" /></a> </p>
 
