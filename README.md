@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 >MySQL  - Structued Query Language .
 >PHP  - Personal Home Page .
 >Node Js
-
-
+<!-- 
 ### Currently Learning :
 
 >MongoDB :leaves:
@@ -52,8 +51,7 @@ Here are some ideas to get you started:
 >CYBER SECURITY
 
 >DSA
-
-
+-->
 
 
 - 🔭 I’m currently working on web and mobile Development .
