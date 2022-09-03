@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- 
 ### Currently Learning :
 
->MongoDB :leaves:
+>MongoDB  :leaves: and redis
 
 >Gatsby Js 
 
