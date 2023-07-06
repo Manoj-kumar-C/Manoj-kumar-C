@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manojkumar C
 ====================================================================================================================================
+<a href="https://app.daily.dev/Mano"><img src="https://api.daily.dev/devcards/b982092544674c4ab57cdf8ef0fdb87d.png?r=6d4" width="400" alt="Manoj kumar's Dev Card"/></a>
 
 Full Stack Web Developer || Currently Learning Machine Learning 
 ------------------------
