@@ -10,7 +10,7 @@ I am Manojkumar . Founder of @freshspar Technologies . I am a Full Stack Web dev
 * 🌍  I'm based in TamilNadu
 * 🖥️  See my portfolio at [My Portfolio](http://mano-portfolio.vercel.app/)
 * ✉️  You can contact me at [developermanoj2003@gmail.com](mailto:developermanoj2003@gmail.com )
-* 🚀  I'm currently working on [PregMed](http://pregmeds.vercel.com)
+* 🚀  I'm currently working on E-Commerce and Block Chain 
 * 🧠  I'm learning Machine Learning , Deep Learning, AI etc ....
 * 🤝  I'm open to collaborating on Open Source Projects , ML projects etc .
 
@@ -51,13 +51,13 @@ I am Manojkumar . Founder of @freshspar Technologies . I am a Full Stack Web dev
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/c-manojkumar"><img src="https://github-readme-stats.vercel.app/api?username=c-manojkumar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="c-manojkumar's GitHub stats" /></a>
+<a href="http://www.github.com/manoj-chandran"><img src="https://github-readme-stats.vercel.app/api?username=manoj-chandran&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="c-manojkumar's GitHub stats" /></a>
 
-<a href="http://www.github.com/c-manojkumar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=c-manojkumar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/manoj-chandran"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-chandran&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/c-manojkumar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=c-manojkumar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/manoj-chandran"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=manoj-chandran&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/c-manojkumar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-manojkumar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/manoj-chandran" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-chandran&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
