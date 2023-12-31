@@ -121,7 +121,6 @@
   <img alt="Manojkumar's GitHub | Dependencies" src="https://stats.quine.sh/Manoj-kumar-C/dependencies?theme=dark" />
 </div>
 
-<img alt="Siddhesh-Agarwal's GitHub | Dependencies" src="https://stats.quine.sh/Siddhesh-Agarwal/dependencies?theme=dark" />
 
 
 
