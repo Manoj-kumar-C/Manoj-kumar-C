@@ -116,6 +116,10 @@
 </div>
 
 ###
+<div align="center">
+  <img alt="Manojkumar's GitHub | Stats" src="https://stats.quine.sh/Manoj-kumar-C/github?theme=dark" />
+  <img alt="Manoj-kumar's GitHub | Dependencies" src="https://stats.quine.sh/Manoj-kumar-C/dependencies?theme=dark" />
+</div>
 
 
 
