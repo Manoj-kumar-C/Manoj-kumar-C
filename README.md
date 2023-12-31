@@ -1,5 +1,5 @@
 ```plaintext
-╔════════════════════════ Hey There! ════════════════════════╗  Siddhesh Agarwal
+╔════════════════════════ Hey There! ════════════════════════╗  Manojkumar C
 ║                                                            ║ ┣━━ Full Stack Web developer 
 ║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ MERN
 ║ Web Development, Cloud, Cyber Security and app dev         ║ ┃   ┣━━ Next js
