@@ -1,7 +1,7 @@
 ```plaintext
 ╔════════════════════════ Hey There! ════════════════════════╗  Manojkumar C
 ║                                                            ║ ┣━━ Full Stack Web developer 
-║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ MERN
+║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ MERN, React Native
 ║ Web Development, Cloud, Cyber Security and app dev         ║ ┃   ┣━━ Next js
 ║ and digital marketing                                      ║ ┃   ┗━━ Wordpress
 ║                                                            ║ ┣━━ 💻 Digital Marketer
