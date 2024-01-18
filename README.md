@@ -105,20 +105,16 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
-## ☎️ Get in Touch
+## 💝 Sponsor and support me
 
-I'm always eager to connect with fellow developers, tech enthusiasts, and collaborators. Feel free to reach out to me through the following channels:
+If you find my projects helpful or inspiring, consider supporting me through GitHub Sponsors. Your sponsorship helps me dedicate more time and effort to open source development and creating impactful projects.
 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.manojchandran@gmail.com)
-- [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact.manojchandran@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/manojkumar_c-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumar--c)
-- [![Twitter](https://img.shields.io/badge/manojkumar_c-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/manoj_kumar__c)
-- [![Telegram](https://img.shields.io/badge/manojkumar_c-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/freshspartechnologies)
-- [![Facebook](https://img.shields.io/badge/manojkumar_C-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/manojkumar_c)
-- [![Instagram](https://img.shields.io/badge/manojkumar_c-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/manojkumar._.c)
-- [My Portfolio](https://manojkumar-c.vercel.app)
+[:heart: Sponsor me on github](https://github.com/sponsors/sumithemmadi?o=sd&sc=t)
 
-Let's connect and collaborate on exciting projects.
+<a href='https://ko-fi.com/manojkumar_c' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+<a href="https://www.buymeacoffee.com/manojkumar_c"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="sumithemmadi" /></a><br><br>
+
 
 
 ###
