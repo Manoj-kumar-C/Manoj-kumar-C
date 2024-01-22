@@ -1,12 +1,12 @@
 ```plaintext
 ╔════════════════════════ Hey There! ════════════════════════╗  Manojkumar C
-║                                                            ║ ┣━━ Full Stack Web developer 
+║                                                            ║ ┣━━ Full Stack Developer 
 ║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ MERN, React Native
 ║ Web Development, Cloud, Cyber Security and app dev         ║ ┃   ┣━━ Next js
 ║ and digital marketing                                      ║ ┃   ┗━━ Wordpress
 ║                                                            ║ ┣━━ 💻 Digital Marketer
 ║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 ML Engineer
-╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
+╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 Data Analytics
 ```
 
 <!-- 
