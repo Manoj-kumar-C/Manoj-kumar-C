@@ -103,7 +103,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://simpleicons.org/icons/cypress.svg" height="40" alt="Cypress Js" style="color:white" />
+  <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" height="40" alt="Cypress Js" style="color:white" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
