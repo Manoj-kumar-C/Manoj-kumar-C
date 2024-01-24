@@ -158,6 +158,9 @@ If you find my projects helpful or inspiring, consider supporting me through Git
   
 </div>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
