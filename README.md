@@ -37,13 +37,7 @@
 
 <h1 align="center">hey there 👋 I'm Manojkumar . Full Stack Developer and Digital Marketer.</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Manojkumar<br><br>- 📚 I'm currently learning Machine Learning and Artificial intelligence</p>
+<p align="left">📚 I'm currently learning Machine Learning and Artificial intelligence</p>
 
 ###
 
