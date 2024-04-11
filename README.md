@@ -114,11 +114,7 @@
 
 If you find my projects helpful or inspiring, consider supporting me through GitHub Sponsors. Your sponsorship helps me dedicate more time and effort to open source development and creating impactful projects.
 
-[:heart: Sponsor me on github](https://github.com/sponsors/Manoj-kumar-C?o=sd&sc=t)
-
-<a href='https://ko-fi.com/manojkumar_c' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-<a href="https://www.buymeacoffee.com/manojkumar_c"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="sumithemmadi" /></a><br><br>
+[:heart: Sponsor me on github](https://github.com/sponsors/Manoj-kumar-C?o=sd&sc=t) <span></span> <a href='https://ko-fi.com/manojkumar_c' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>  <span></span> <a href="https://www.buymeacoffee.com/manojkumar_c"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="sumithemmadi" /></a><br><br>
 
 
 
