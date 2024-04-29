@@ -1,9 +1,9 @@
 ```plaintext
 ╔════════════════════════ Hey There! ════════════════════════╗  Manojkumar C
-║                                                            ║ ┣━━ Full Stack Developer 
+║                                                            ║ ┣━━ Backend Developer
 ║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ MERN, React Native, FastApi
-║ Web Development, Cloud, Cyber Security and app dev         ║ ┃   ┣━━ Next js
-║ and digital marketing                                      ║ ┃   ┗━━ Wordpress
+║ Web Development, Cloud, Cyber Security, and app dev        ║ ┃   ┣━━ Next js
+║ and digital marketing                                      ║ ┃   ┗━━ WordPress
 ║                                                            ║ ┣━━ 💻 Digital Marketer
 ║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 ML Engineer
 ╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 Data Analytics
@@ -120,6 +120,12 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
 ## 💝 Sponsor and support me
