@@ -36,7 +36,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Manojkumar . Full Stack Developer and Digital Marketer.</h1>
+<h1 align="center">👋 I'm Manojkumar C . Full Stack Developer and Digital Marketer.</h1>
 
 <p align="left">📚 I'm currently learning Machine Learning and Artificial intelligence</p>
 
@@ -141,7 +141,7 @@ If you find my projects helpful or inspiring, consider supporting me through Git
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥My Stats :</h3>
 
 ###
 <!--
@@ -155,8 +155,8 @@ If you find my projects helpful or inspiring, consider supporting me through Git
 
 
 <div align="center">
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manoj-kumar-C&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manoj-kumar-C&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manoj-kumar-C&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manoj-kumar-C&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ###
