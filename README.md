@@ -31,6 +31,7 @@
   <a href="https://www.instagram.com/manojkumar._.c/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <img src="https://profile-counter.glitch.me/Manoj-kumar-C/count.svg?"  />
 </div>
 
 ###
@@ -128,6 +129,8 @@
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
+    
+  
 ## 💝 Sponsor and support me
 
 If you find my projects helpful or inspiring, consider supporting me through GitHub Sponsors. Your sponsorship helps me dedicate more time and effort to open source development and creating impactful projects.
@@ -141,34 +144,32 @@ If you find my projects helpful or inspiring, consider supporting me through Git
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Manoj-kumar-C&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Manoj-kumar-C/count.svg?"  />
-</div>
+-->
 
 ###
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manoj-kumar-C&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manoj-kumar-C&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manoj-kumar-C&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manoj-kumar-C&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
 <div align="center">
   <img alt="Manojkumar's GitHub | Stats" src="https://stats.quine.sh/Manoj-kumar-C/github?theme=dark" />
-  
+  <img alt="Manojkumar's GitHub | Dependencies" src="https://stats.quine.sh/Manoj-kumar-C/dependencies?theme=dark" />
 </div>
 
+<!--
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
 
 
 
