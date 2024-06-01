@@ -38,7 +38,7 @@
 
 <h1 align="center">👋 I'm Manojkumar C . Full Stack Developer and Digital Marketer.</h1>
 
-<p align="left">📚 I'm currently learning Machine Learning and Artificial intelligence</p>
+## <p align="left">📚 I'm currently learning Machine Learning , & Mastering Amazon Web Services (AWS)</p>
 
 ###
 
