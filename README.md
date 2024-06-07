@@ -1,11 +1,11 @@
 ```plaintext
 ╔════════════════════════ Hey There! ════════════════════════╗  Manojkumar C
 ║                                                            ║ ┣━━ Backend Developer
-║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ MERN, React Native, FastApi
-║ Web Development, Cloud, Cyber Security, and app dev        ║ ┃   ┣━━ Next js
+║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ MERN, React Native, Next js, FastApi
+║ Web Development, Cloud, Cyber Security, and app dev        ║ ┃   ┣━━ Mysql, MongoDB
 ║ and digital marketing                                      ║ ┃   ┗━━ WordPress
 ║                                                            ║ ┣━━ 💻 Digital Marketer
-║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 ML Engineer
+║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 Cloud Engineer
 ╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 Data Analytics
 ```
 
