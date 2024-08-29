@@ -5,7 +5,7 @@
 ║ Web Development, Cyber Security, and App Development       ║ ┃   ┣━━ Mysql, MongoDB
 ║ and Digital Marketing                                      ║ ┃   ┗━━ TypeScript, Node.Js, Python, C++
 ║                                                            ║ ┣━━ 💻 Digital Marketer
-║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 Cloud Engineer ( AWS )
+║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 Cloud Engineer ( AWS, Firebase )
 ╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps Engineer (Docker, Kubernetes, Ansible, Terraform, Jenkins )
 ```
 
