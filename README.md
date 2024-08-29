@@ -40,6 +40,8 @@
 
 ## <p align="left">📚 I'm currently Mastering Amazon Web Services (AWS), DEVOPS</p>
 
+Certified Cloud Practitioner. Currently Preparing for AWS Solution Architect 
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
