@@ -114,13 +114,8 @@
 </div>
 
 
-
-
-###
-
 <h3 align="left">🔥My Stats :</h3>
 
-###
 <!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Manoj-kumar-C&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -128,25 +123,15 @@
 </div>
 -->
 
-###
 
+<p align="center">
+<a href="https://github.com/Manoj-kumar-C">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manoj-kumar-C&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manoj-kumar-C&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
-<div align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manoj-kumar-C&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&disable_animations=true" height="200" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-kumar-C&langs_count=10&layout=compact&theme=radical&hide_border=true&disable_animations=true" height="200" />
-</div>
-
-###
 <div align="center">
   <img alt="Manojkumar's GitHub | Stats" src="https://stats.quine.sh/Manoj-kumar-C/github?theme=dark" />
   <img alt="Manojkumar's GitHub | Dependencies" src="https://stats.quine.sh/Manoj-kumar-C/dependencies?theme=dark" />
 </div>
-
-<!--
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
--->
-
-
-
