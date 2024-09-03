@@ -42,11 +42,7 @@
 
 <h1 align="center">👋 Full Stack Developer and Digital Marketer.</h1>
 
-## <p align="left">📚 I'm currently Mastering Amazon Web Services (AWS), DEVOPS</p>
-
-Certified Cloud Practitioner. Currently Preparing for AWS Solution Architect 
-
-###
+## <p align="center">📚 I'm currently Mastering Amazon Web Services (AWS), DevOps</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
