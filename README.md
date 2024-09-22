@@ -6,7 +6,7 @@
 ║ and Digital Marketing                                      ║ ┃   ┗━━ TypeScript, Node.Js, Python, C++
 ║                                                            ║ ┣━━ 💻 Digital Marketer
 ║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 Cloud Engineer ( AWS, Firebase )
-╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps Engineer (Docker, Kubernetes, Ansible, Terraform, Jenkins )
+╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps Engineer (Docker, Kubernetes, CloudFormation, Github Actions )
 ```
 
 <!-- 
