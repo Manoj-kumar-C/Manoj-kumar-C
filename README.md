@@ -40,6 +40,7 @@
 
 ###
 
+###
 <h1 align="center">👋 Full Stack Developer and Digital Marketer.</h1>
 
 ## <p align="center">📚 I'm currently Mastering Amazon Web Services (AWS), DevOps</p>
@@ -80,6 +81,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
