@@ -2,7 +2,7 @@
 ╔════════════════════════ Hey There! ════════════════════════╗  Manojkumar C
 ║                                                            ║ ┣━━ Backend Developer
 ║ My areas of interest are DevOps, Cloud Engineering         ║ ┃   ┣━━ MERN, React Native, Next js, FastApi, Wordpress
-║ Web Development, Cyber Security, and App Development       ║ ┃   ┣━━ Mysql, MongoDB
+║ Web Development, Cyber Security, App Development           ║ ┃   ┣━━ Mysql, MongoDB
 ║ and Digital Marketing                                      ║ ┃   ┗━━ TypeScript, Node.Js, Python, C++
 ║                                                            ║ ┣━━ 💻 Digital Marketer
 ║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 Cloud Engineer ( AWS, Firebase )
@@ -28,9 +28,9 @@
   <a href="https://linktr.ee/Manojkumar_C" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
-  <a href="https://www.instagram.com/manojkumar._.c/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+   <a href="mailto:contact.manojchandran@gmail.com" target="_blank">
+     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
   <img src="https://profile-counter.glitch.me/Manoj-kumar-C/count.svg?"  />
   
   <a href="https://www.buymeacoffee.com/manojkumar_c"> 
