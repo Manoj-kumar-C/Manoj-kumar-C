@@ -50,7 +50,7 @@
 ###
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-<img src="https://skillicons.dev/icons?i=firebase,aws,docker,kubernetes,bootstrap,tailwind,js,ts,react,jest,git,github,githubactions,gitlab,py,nodejs,mysql,sqlite,mongodb,nextjs,angular,express,wordpress,sass,gulp,redux,fastapi,postman,vite,jenkins,prometheus,grafana,ansible,linux,vercel,sequelize,nginx,androidstudio,bash,terraform,markdown" alt="skills" />
+<img src="https://skillicons.dev/icons?i=firebase,aws,azure,docker,kubernetes,bootstrap,tailwind,js,ts,react,jest,git,github,githubactions,gitlab,py,nodejs,mysql,sqlite,mongodb,nextjs,angular,express,wordpress,sass,gulp,redux,fastapi,postman,vite,jenkins,prometheus,grafana,ansible,linux,vercel,sequelize,nginx,androidstudio,bash,terraform,markdown" alt="skills" />
 </div>
 
 
