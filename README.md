@@ -18,7 +18,7 @@
 
 ###
 
-<table align="center">
+<table align="center" >
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/manojkumar--c/" target="_blank">
