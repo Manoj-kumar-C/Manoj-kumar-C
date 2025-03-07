@@ -18,25 +18,41 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/manojkumar--c/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Manojkumar_C" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://linktr.ee/Manojkumar_C" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  </a>
-   <a href="mailto:contact.manojchandran@gmail.com" target="_blank">
-     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-   </a>
-  <img src="https://profile-counter.glitch.me/Manoj-kumar-C/count.svg?"  />
-  
-  <a href="https://www.buymeacoffee.com/manojkumar_c"> 
-  <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="manojkumar" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/manojkumar--c/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/@Manojkumar_C" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linktr.ee/Manojkumar_C" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Linktree" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:contact.manojchandran@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.buymeacoffee.com/manojkumar_c" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me a Coffee" />
+      </a>
+    </td>
+    <td>
+        <img src="https://profile-counter.glitch.me/Manoj-kumar-C/count.svg?" height="40" width="180" alt="Buy Me a Coffee" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 ###
 
@@ -61,15 +77,23 @@
   <img src="https://streak-stats.demolab.com?user=Manoj-kumar-C&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   
 </div>
--->
+--><table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Manoj-kumar-C">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manoj-kumar-C&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Manoj-kumar-C">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manoj-kumar-C&layout=compact&langs_count=8&theme=radical"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-<p align="center">
-<a href="https://github.com/Manoj-kumar-C">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manoj-kumar-C&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manoj-kumar-C&layout=compact&langs_count=8&theme=radical"/>
-</a>
-</p>
+
 
 <!--
 <div align="center">
