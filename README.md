@@ -71,8 +71,15 @@
 </a>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/manojkuma-c">
+    <img src="https://leetcard.jacoblin.cool/manojkumar-c?ext=contest&theme=dark" alt="Leetcode Stats" />
+  </a>
+</p>
+
 <!--
 <div align="center">
+[![Leetcode Stats](https://leetcard.jacoblin.cool/manojkumar-c?ext=contest&theme=dark)](https://leetcode.com/manojkuma-c)
   <img alt="Manojkumar's GitHub | Stats" src="https://stats.quine.sh/Manoj-kumar-C/github?theme=dark" />
   <img alt="Manojkumar's GitHub | Dependencies" src="https://stats.quine.sh/Manoj-kumar-C/dependencies?theme=dark" />
 </div>
