@@ -3,10 +3,10 @@
 ║                                                            ║ ┣━━ Backend Developer
 ║ My areas of interest are DevOps, Cloud Engineering         ║ ┃   ┣━━ MERN, React Native, Next js, FastApi, WordPress
 ║ Web Development, Cyber Security, App Development           ║ ┃   ┣━━ Mysql, MongoDB, Firestore DB
-║ and Digital Marketing                                      ║ ┃   ┗━━ TypeScript, Node.Js, Python, C++
+║ DevSecOps & Digital Marketing                              ║ ┃   ┗━━ TypeScript, Node.Js, Python, C++
 ║                                                            ║ ┣━━ 💻 Digital Marketer 
-║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 Cloud Engineer ( AWS, Firebase, CloudFormation, )
-╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps Engineer (Docker, Kubernetes,  GitHub Actions, Azure DevOps )
+║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 Cloud Engineer ( AWS, Azure, Firebase, CloudFormation, )
+╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps, DevSecps Engineer (Docker, Kubernetes,  GitHub Actions, Azure DevOps )
 ```
 
 <!-- 
