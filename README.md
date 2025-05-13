@@ -5,8 +5,8 @@
 ║ Web Development, Cyber Security, App Development           ║ ┃   ┣━━ Mysql, MongoDB, Firestore DB
 ║ DevSecOps & Digital Marketing                              ║ ┃   ┗━━ TypeScript, Node.Js, Python, C++
 ║                                                            ║ ┣━━ 💻 Digital Marketer 
-║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 Cloud Engineer ( AWS, Azure, Firebase, CloudFormation, )
-╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps, DevSecps Engineer (Docker, Kubernetes,  GitHub Actions, Azure DevOps )
+║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 Cloud Engineer ( AWS, Azure, Firebase, CloudFormation,  Azure DevOps )
+╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps, DevSecOps Engineer (Docker, Kubernetes,  GitHub Actions, Synk, Semgrep )
 ```
 
 <!-- 
