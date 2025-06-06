@@ -43,7 +43,7 @@
 ###
 <h1 align="center">👋 Full Stack Developer and Digital Marketer.</h1>
 
-## <p align="center">📚 I'm currently Mastering Amazon Web Services (AWS), DevOps</p>
+## <p align="center">📚 I'm currently Mastering AWS, DevOps, Data Engineering</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
