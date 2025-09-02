@@ -31,7 +31,7 @@
    <a href="mailto:contact.manojchandran@gmail.com" target="_blank">
      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
-  <img src="https://profile-counter.glitch.me/Manoj-kumar-C/count.svg?"  />
+  <!-- < img src="https://profile-counter.glitch.me/Manoj-kumar-C/count.svg?"  />  -->
   
   <a href="https://www.buymeacoffee.com/manojkumar_c"> 
   <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="manojkumar" />
