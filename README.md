@@ -1,7 +1,7 @@
 ```plaintext
 ╔════════════════════════ Hey There! ════════════════════════╗  Manojkumar C
 ║                                                            ║ ┣━━ Backend Developer
-║ My areas of interest are DevOps, Cloud Engineering         ║ ┃   ┣━━ MERN, React Native, Next js, FastApi, WordPress
+║ My areas of interest are MLOPs, AIOps, Gen AI              ║ ┃   ┣━━ MERN, React Native, Next js, FastApi, WordPress
 ║ Web Development, Cyber Security, App Development           ║ ┃   ┣━━ Mysql, MongoDB, Firestore DB
 ║ DevSecOps & Digital Marketing                              ║ ┃   ┗━━ TypeScript, Node.Js, Python, C++
 ║                                                            ║ ┣━━ 💻 Digital Marketer 
