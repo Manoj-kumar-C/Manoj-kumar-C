@@ -6,7 +6,7 @@
 ║ DevSecOps & Digital Marketing                              ║ ┃   ┗━━ TypeScript, Node.Js, Python, C++
 ║                                                            ║ ┣━━ 💻 Digital Marketer 
 ║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 Cloud Engineer ( AWS, Azure, Firebase, CloudFormation,  Azure DevOps )
-╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps, DevSecOps Engineer (Docker, Kubernetes,  GitHub Actions, Synk, Semgrep )
+╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps, DevSecOps, MLOps Engineer (Docker, Kubernetes,  GitHub Actions, Synk, Semgrep )
 ```
 
 <!-- 
