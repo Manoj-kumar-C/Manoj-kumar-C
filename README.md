@@ -2,11 +2,11 @@
 ╔════════════════════════ Hey There! ════════════════════════╗  Manojkumar C
 ║                                                            ║ ┣━━ Backend Developer
 ║ My areas of interest are MLOPs, AIOps, Gen AI              ║ ┃   ┣━━ MERN, React Native, Next js, FastApi, WordPress
-║ Web Development, Cyber Security, App Development           ║ ┃   ┣━━ Mysql, MongoDB, Firestore DB
+║ Web Development, Cyber Security, App Development           ║ ┃   ┣━━ Mysql, MongoDB, Firestore,PostgreSQL DB
 ║ DevSecOps & Digital Marketing                              ║ ┃   ┗━━ TypeScript, Node.Js, Python, C++
 ║                                                            ║ ┣━━ 💻 Digital Marketer 
-║ Building @Fresh Spar Technologies                          ║ ┣━━ 🤖 Cloud Engineer ( AWS, Azure, Firebase, CloudFormation,  Azure DevOps )
-╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps, DevSecOps, MLOps Engineer (Docker, Kubernetes,  GitHub Actions, Synk, Semgrep )
+║ Building @Fresh Spar Tech & SAAS Products                  ║ ┣━━ 🤖 Cloud Engineer ( AWS, Azure, Firebase,  Azure DevOps )
+╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps, DevSecOps, MLOps Engineer, GenAiOps (Docker, Kubernetes,  GitHub Actions, Synk, Semgrep )
 ```
 
 <!-- 
