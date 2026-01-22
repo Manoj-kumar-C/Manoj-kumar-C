@@ -1,12 +1,12 @@
 ```plaintext
 ╔════════════════════════ Hey There! ════════════════════════╗  Manojkumar C
 ║                                                            ║ ┣━━ Backend Developer
-║ My areas of interest are MLOPs, AIOps, Gen AI              ║ ┃   ┣━━ MERN, React Native, Next js, FastApi, WordPress
-║ Web Development, Cyber Security, App Development           ║ ┃   ┣━━ Mysql, MongoDB, Firestore,PostgreSQL DB
-║ DevSecOps & Digital Marketing                              ║ ┃   ┗━━ TypeScript, Node.Js, Python, C++
+║ My areas of interest are MLOps, AIOps, Gen AI              ║ ┃   ┣━━ MERN, React Native, Next js, FastApi
+║ Web, App, Cloud, Cyber Security,                           ║ ┃   ┣━━ Mysql, MongoDB, Firestore,PostgreSQL DB
+║ DevOps, DevSecOps                                          ║ ┃   ┗━━ TypeScript, Node.Js, Python, C++
 ║                                                            ║ ┣━━ 💻 Digital Marketer 
-║ Building @Fresh Spar Tech & SAAS Products                  ║ ┣━━ 🤖 Cloud Engineer ( AWS, Azure, Firebase,  Azure DevOps )
-╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps, DevSecOps, MLOps Engineer, GenAiOps (Docker, Kubernetes,  GitHub Actions, Synk, Semgrep )
+║ Building @Fresh Spar Tech & AI Products                    ║ ┣━━ 🤖 Cloud Engineer ( AWS, Azure, Firebase,  Azure DevOps )
+╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 DevOps | MLOps | AIOps 
 ```
 
 <!-- 
@@ -41,9 +41,9 @@
 ###
 
 ###
-<h1 align="center">👋 Full Stack Developer and Digital Marketer.</h1>
+<h1 align="center">👋 Full Stack and Gen AI Engineer</h1>
 
-## <p align="center">📚 I'm currently Mastering AWS, Azure, DevOps, MLOps, GenAiOps</p>
+## <p align="center">📚 I'm currently Mastering  DevOps | MLOps | AIOps</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
